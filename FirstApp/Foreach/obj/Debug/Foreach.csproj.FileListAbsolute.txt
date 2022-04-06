@@ -1,0 +1,6 @@
+C:\Users\danieldragomir\source\repos\FirstApp\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\danieldragomir\source\repos\FirstApp\Foreach\bin\Debug\Foreach.exe
+C:\Users\danieldragomir\source\repos\FirstApp\Foreach\bin\Debug\Foreach.pdb
+C:\Users\danieldragomir\source\repos\FirstApp\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\danieldragomir\source\repos\FirstApp\Foreach\obj\Debug\Foreach.exe
+C:\Users\danieldragomir\source\repos\FirstApp\Foreach\obj\Debug\Foreach.pdb

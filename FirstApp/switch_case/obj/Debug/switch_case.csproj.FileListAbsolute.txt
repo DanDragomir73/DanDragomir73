@@ -1,0 +1,6 @@
+C:\Users\danieldragomir\source\repos\FirstApp\switch_case\obj\Debug\switch_case.csproj.CoreCompileInputs.cache
+C:\Users\danieldragomir\source\repos\FirstApp\switch_case\bin\Debug\switch_case.exe.config
+C:\Users\danieldragomir\source\repos\FirstApp\switch_case\bin\Debug\switch_case.exe
+C:\Users\danieldragomir\source\repos\FirstApp\switch_case\bin\Debug\switch_case.pdb
+C:\Users\danieldragomir\source\repos\FirstApp\switch_case\obj\Debug\switch_case.exe
+C:\Users\danieldragomir\source\repos\FirstApp\switch_case\obj\Debug\switch_case.pdb
