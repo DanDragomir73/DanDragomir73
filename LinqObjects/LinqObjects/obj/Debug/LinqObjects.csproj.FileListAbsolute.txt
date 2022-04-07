@@ -1,0 +1,7 @@
+C:\Users\danieldragomir\source\repos\LinqObjects\LinqObjects\bin\Debug\LinqObjects.exe.config
+C:\Users\danieldragomir\source\repos\LinqObjects\LinqObjects\bin\Debug\LinqObjects.exe
+C:\Users\danieldragomir\source\repos\LinqObjects\LinqObjects\bin\Debug\LinqObjects.pdb
+C:\Users\danieldragomir\source\repos\LinqObjects\LinqObjects\obj\Debug\LinqObjects.csproj.AssemblyReference.cache
+C:\Users\danieldragomir\source\repos\LinqObjects\LinqObjects\obj\Debug\LinqObjects.csproj.CoreCompileInputs.cache
+C:\Users\danieldragomir\source\repos\LinqObjects\LinqObjects\obj\Debug\LinqObjects.exe
+C:\Users\danieldragomir\source\repos\LinqObjects\LinqObjects\obj\Debug\LinqObjects.pdb
